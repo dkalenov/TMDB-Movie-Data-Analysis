@@ -12,7 +12,7 @@ Tasks:
 Determine the total number of films released in those years when at least one billion-dollar film was released;
 Establish the dependence of the number of “billionaire films” on the total number of films released.
 
-### Hypothesis 2: The biggest profits in absolute and relative terms come from action films.
+### Hypothesis 2: Action films make the biggest profits in absolute and relative terms.
 
 Tasks:
 - Sort films by genre and calculate average profit;
@@ -28,13 +28,14 @@ Compare the average box office receipts of similar films in absolute and relativ
 
 ## Conclusion
 - The number of films released per year is not a factor in the increase in the number of films grossing more than a billion US dollars. On the contrary, statistics for 2013, 2014, 2021, and 2022 show an inverse relationship.
-<img src="https://github.com/dkalenov/TMDB-Movie-Data-Analysis/blob/main/assets/number%20of%20movies.jpg" alt="number of movies by years" width="600" height="500">
+
+  ![The number of movies by years](https://github.com/dkalenov/TMDB-Movie-Data-Analysis/blob/main/assets/number%20of%20movies.jpg)
 
 - In terms of average profit, action films rank 6th, with an average profit of $120,617,200. In terms of profit percentage, action films average a profit margin of 407%, ranking 16th out of the 19 genres examined. In terms of overall box office receipts, films in the “action” genre are also not leaders and are in second place, behind films in the “adventure” genre in terms of overall box office receipts.
-<img src="https://github.com/dkalenov/TMDB-Movie-Data-Analysis/blob/main/assets/top%20box%20office.jpg" alt="top box office" width="500" height="400">
+  ![Top box office](https://github.com/dkalenov/TMDB-Movie-Data-Analysis/blob/main/assets/top%20box%20office.jpg)
 
 - Remakes of films that have the same name as the originals bring in more than 2 times the profit compared to the originals. However, in percentage terms, the profit of remakes is significantly inferior to the originals, so for greater objectivity in the future it is worth considering the profit of the originals and remakes taking into account inflation.
-<img src="https://github.com/dkalenov/TMDB-Movie-Data-Analysis/blob/main/assets/original%20%26%20remakes.jpg" alt="original Vs remakes" width="600" height="500">
+  ![Top box office](https://github.com/dkalenov/TMDB-Movie-Data-Analysis/blob/main/assets/original%20%26%20remakes.jpg)
 
 ## Further development
 
